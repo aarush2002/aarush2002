@@ -1,5 +1,2 @@
-## Aarush
-I'm Aarush and I like Design and Development. I really enjoy learning languages and frameworks like React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
-### Skills
-* HTML, CSS, JS 
-* C/C++
+## Hi there 👋 I'm Aarush
+Hi, I'm Aarush, a senior-year Computer Science student at UIET, KUK. I have knowledge of C/C++ and Web development and I really enjoy learning new languages and frameworks like React, Next Js. I also enjoy UI/UX, wireframing, and design in general.
